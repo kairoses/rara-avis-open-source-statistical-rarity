@@ -226,7 +226,7 @@ export default function RarityPage() {
               <span className="link-btn-text">Methodology</span>
             </a>
             <a 
-              href="https://github.com/yourusername/rara_avis_v4" 
+              href="https://github.com/kairoses/rara-avis-open-source-statistical-rarity" 
               target="_blank"
               rel="noopener noreferrer"
               className="link-btn link-btn-middle"
