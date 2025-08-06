@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Inter, PT_Mono } from 'next/font/google'
 import Image from 'next/image'
 import './globals.css'
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({ subsets: ['latin'] })
 const ptMono = PT_Mono({ 
@@ -82,6 +83,7 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   )
