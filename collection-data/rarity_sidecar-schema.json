@@ -1,0 +1,99 @@
+{
+    "chainId": 1,
+    "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "tokenId": "4431",
+    "rarity": {
+      "methodology": {
+        "raraAvis": {
+          "version": "1.0",
+          "lastCalculated": "2025-03-31T22:41:43.603Z",
+          "statisticalRarityScore": 63.151,
+          "statisticalRarityRank": 4514,
+          "aestheticRarityScore": 20.229,
+          "aestheticRarityRank": 1,
+          "totalTraits": 7,
+          "includedTraitsCount": 6,
+          "attributes": [
+            {
+              "key": "Trait Count",
+              "value": 4,
+              "score": 7.1,
+              "included": true
+            },
+            {
+              "key": "Theme",
+              "value": "Chimp",
+              "score": 50.2,
+              "included": true
+            },
+            {
+              "key": "Theme",
+              "value": "Blimp",
+              "score": 72.1,
+              "included": true
+            },
+            {
+              "key": "Background",
+              "value": "Orange",
+              "score": 7.1,
+              "included": true
+            },
+            {
+              "key": "Mouth",
+              "value": "Phoneme Vuh",
+              "score": 13.4,
+              "included": true
+            },
+            {
+              "key": "Fur",
+              "value": "Black",
+              "score": 17.1,
+              "included": true
+            },
+            {
+              "key": "Earring",
+              "value": "Diamond",
+              "score": 113.4,
+              "included": true
+            },
+            {
+              "key": "ApeCoin Staked",
+              "value": "0 - 1 ApeCoin",
+              "score": 0,
+              "included": false
+            }
+          ],
+          "themes": [
+            {
+              "key": "Theme",
+              "value": "Chimp",
+              "themeTraits": [
+                {
+                  "key": "Background",
+                  "value": "Orange"
+                },
+                {
+                  "key": "Mouth",
+                  "value": "Phoneme Vuh"
+                }
+              ]
+            },
+            {
+              "key": "Theme",
+              "value": "Blimp",
+              "themeTraits": [
+                {
+                  "key": "Fur",
+                  "value": "Black"
+                },
+                {
+                  "key": "Earring",
+                  "value": "Diamond"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  } 

@@ -1,0 +1,103 @@
+{
+  "raritySidecar": {
+    "collection": {
+      "chainId": 1,
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "name": "Bored Ape Yacht Club",
+      "symbol": "BAYC",
+      "totalSupply": 10000
+    },
+    "methodology": {
+      "raraAvis": {
+        "version": "1.0",
+        "lastCalculated": "2025-08-02T03:32:04.369Z",
+        "attributeCategories": {
+          "all": ["Trait Count", "Theme", "Background", "Mouth", "Fur", "Earring", "ApeCoin Staked"],
+          "doNotDisplay": [],
+          "excludeFromScore": ["ApeCoin Staked"]
+        }
+      }
+    },
+    "themes": [
+      {
+        "key": "Theme",
+        "value": "Chimp",
+        "themeTraits": [
+          {
+            "key": "Background",
+            "value": "Orange"
+          },
+          {
+            "key": "Mouth",
+            "value": "Phoneme Vuh"
+          }
+        ]
+      },
+      {
+        "key": "Theme",
+        "value": "Blimp",
+        "themeTraits": [
+          {
+            "key": "Fur",
+            "value": "Black"
+          },
+          {
+            "key": "Earring",
+            "value": "Diamond"
+          }
+        ]
+      }
+    ],
+    "tokens": [
+      {
+        "tokenId": "4431",
+        "statisticalRarityScore": 63.151,
+        "statisticalRarityRank": 4514,
+        "aestheticRarityScore": 20.229,
+        "aestheticRarityRank": 1,
+        "attributes": [
+          {
+            "key": "Trait Count",
+            "value": 4,
+            "score": 7.1
+          },
+          {
+            "key": "Theme",
+            "value": "Chimp",
+            "score": 50.2
+          },
+          {
+            "key": "Theme",
+            "value": "Blimp",
+            "score": 72.1
+          },
+          {
+            "key": "Background",
+            "value": "Orange",
+            "score": 7.1
+          },
+          {
+            "key": "Mouth",
+            "value": "Phoneme Vuh",
+            "score": 13.4
+          },
+          {
+            "key": "Fur",
+            "value": "Black",
+            "score": 17.1
+          },
+          {
+            "key": "Earring",
+            "value": "Diamond",
+            "score": 113.4
+          },
+          {
+            "key": "ApeCoin Staked",
+            "value": "0 - 1 ApeCoin",
+            "score": 0
+          }
+        ]
+      }
+    ]
+  }
+} 
