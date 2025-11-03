@@ -15,4 +15,4 @@
 .next
 node_modules
 
-/collection-data
+collection-data/
